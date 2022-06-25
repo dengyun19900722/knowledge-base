@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# 简介
 
-You can use the [editor on GitHub](https://github.com/dengyun19900722/knowledge-base/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+​	本目录存放产品生命周期各环节产出的文档，持续积累，形成产品知识库，完成知识共享。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# type
 
-### Markdown
+文档类型按大类分为：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 需求（requirement - R）
+- 规划（plan - P）
+- 设计（design - DS）
+- 开发（develop - DV）
+- 发布（release - RL）
+- 实施（ops - OPS）
+- 项目管理（manage - M）
 
-```markdown
-Syntax highlighted code block
+# 命名规范
 
-# Header 1
-## Header 2
-### Header 3
+文档命名参照以下规范：
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+type-no(随机)-body.md
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# 知识库说明
 
-### Jekyll Themes
+## 需求
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dengyun19900722/knowledge-base/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 规划
 
-### Support or Contact
+## 设计
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 开发
+
+## 发布
+
+## 实施
+
+## 项目管理
+
+# 如何高效工作？（每周必须花半天来思考）
+
+**1、如何做事**：怎么梳理好需求、跟进好计划，完成从需求到计划、落地的全生命周期跟进？（需求池+计划表！！！ --- xmind配合跟进）
+**2、如何带人**：如何较好的发挥组员能动性，只有提高了他们的能动性，能力才可进展，我的压力才能释放！！！
+
